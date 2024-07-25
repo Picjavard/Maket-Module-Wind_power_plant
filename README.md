@@ -21,6 +21,10 @@
 | SCL	| A5 | 3 |
 | SDA	| A4 |	2 |
 
+### Моторчик
+
+![circuit (4)](https://github.com/user-attachments/assets/6fe67ea1-b18c-46a8-8df1-530ae1aedb67)
+
 ## Код
 
 ```cpp
