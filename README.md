@@ -3,10 +3,10 @@
 
 ## Список компонентов
 
-* Моторчик 3V
-* Микроконтроллер Arduino
+* Моторчик 3V - https://sl.aliexpress.ru/p?key=ctgsrBX
+* Микроконтроллер Arduino - https://sl.aliexpress.ru/p?key=OQhsrnW
 * OLED-дисплей (1306 128x64, I2C) - https://sl.aliexpress.ru/p?key=LR1dsBY
-* Резистор 220Ом - 1 шт.
+* Резистор 220Ом - 1 шт. - https://sl.aliexpress.ru/p?key=KjhsrsY
 
 ## 3D-модели для печати
 
