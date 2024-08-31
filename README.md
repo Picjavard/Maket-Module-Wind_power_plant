@@ -10,7 +10,7 @@
 
 ## 3D-модели для печати
 
-[Thingiverse: https://www.thingiverse.com/thing:6749869](https://www.thingiverse.com/thing:6749915)
+Thingiverse: https://www.thingiverse.com/thing:6749869
 
 ![Ветряк v14](https://github.com/user-attachments/assets/2c5b436e-3aa5-409a-82d8-794be2f303d0)
 
