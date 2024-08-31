@@ -8,6 +8,11 @@
 * OLED-дисплей (1306 128x64, I2C) - https://sl.aliexpress.ru/p?key=LR1dsBY
 * Резистор 220Ом - 1 шт.
 
+## 3D-модели для печати
+
+[Thingiverse: https://www.thingiverse.com/thing:6749869](https://www.thingiverse.com/thing:6749915)
+
+![Ветряк v14](https://github.com/user-attachments/assets/2c5b436e-3aa5-409a-82d8-794be2f303d0)
 
 ## Подключение
 
